@@ -72,18 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
+      { title: "Black Swan Lab" },
       { name: "description", content: "Black Swan Lab is a web app for understanding and applying Black Swan thinking to identify fragility and stress-test plans." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
+      { property: "og:title", content: "Black Swan Lab" },
       { property: "og:description", content: "Black Swan Lab is a web app for understanding and applying Black Swan thinking to identify fragility and stress-test plans." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
-      { name: "twitter:title", content: "Lovable App" },
+      { name: "twitter:title", content: "Black Swan Lab" },
       { name: "twitter:description", content: "Black Swan Lab is a web app for understanding and applying Black Swan thinking to identify fragility and stress-test plans." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6b7193b2-bae4-4db2-9daf-4decfe1ca960/id-preview-acb5eb16--9ba56845-3e5a-4fac-8e45-9e0bb1c1afae.lovable.app-1778296630198.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6b7193b2-bae4-4db2-9daf-4decfe1ca960/id-preview-acb5eb16--9ba56845-3e5a-4fac-8e45-9e0bb1c1afae.lovable.app-1778296630198.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/405f849f-9bd2-444d-8ea2-0eec2d22a9c8/id-preview-cbc82207--9ba56845-3e5a-4fac-8e45-9e0bb1c1afae.lovable.app-1778299771744.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/405f849f-9bd2-444d-8ea2-0eec2d22a9c8/id-preview-cbc82207--9ba56845-3e5a-4fac-8e45-9e0bb1c1afae.lovable.app-1778299771744.png" },
     ],
     links: [
       {
